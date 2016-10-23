@@ -1,0 +1,2 @@
+build:
+	@$(pwd)./build.sh
