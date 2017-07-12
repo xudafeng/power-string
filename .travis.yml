@@ -1,9 +1,16 @@
-language: node_js
+os:
+  - osx
+osx_image:
+  - xcode8.3
+language:
+  - objective-c
 sudo: false
-node_js:
-  - "4.1.2"
-notifications:
-  email:
-  - xudafeng@126.com
-script: make travis
-after_script: "npm install coveralls@2 && cat ./coverage/lcov.info | coveralls"
+before_install:
+  - brew update
+  - brew install nvm > /dev/null 2>&1
+before_script:
+  - source $(brew --prefix nvm)/nvm.sh
+  - nvm install 7
+  - npm i
+script:
+  - node ./test/run.test.js

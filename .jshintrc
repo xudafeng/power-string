@@ -26,6 +26,7 @@
   "mocha": true,
   "validthis": true,
   "globals": {
-    "define": false
+    "define": false,
+    "THREE": false
   }
 }

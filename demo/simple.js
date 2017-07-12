@@ -32,5 +32,5 @@ var render = function() {
   cube.rotation.x += 0.1;
   sphere.rotation.x += 0.1;
   renderer.render(scene, camera);
-}
+};
 render();
