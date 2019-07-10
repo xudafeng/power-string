@@ -25,6 +25,23 @@
 $ npm i power-string --save-dev
 ```
 
+## Usage
+
+```javascript
+const PowerString = require('power-string');
+const {
+  isChineseLetter,
+  getLength,
+  sliceString,
+  splitToArray
+} = PowerString;
+
+isChineseLetter('中'); // true
+getLength('中'); // 2
+sliceString('这是一句中文', 4); // 这是
+splitToArray('这是一句中文+123456', 4); // [ '这是', '一句', '中文', '+123', '456' ]
+```
+
 ## License
 
 The MIT License (MIT)
