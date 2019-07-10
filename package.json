@@ -1,7 +1,7 @@
 {
   "name": "power-string",
   "version": "1.0.0",
-  "description": "string utils",
+  "description": "the missing utilities of String",
   "keywords": ["string", "letter", "word", "chinese"],
   "main": "./lib/power-string.js",
   "repository": {
