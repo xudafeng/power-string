@@ -17,7 +17,7 @@
 [download-image]: https://img.shields.io/npm/dm/power-string.svg?style=flat-square
 [download-url]: https://npmjs.org/package/power-string
 
-> string utils
+> the missing utilities of String
 
 ## Installment
 
