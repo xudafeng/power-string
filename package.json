@@ -1,7 +1,7 @@
 {
   "name": "power-string",
   "version": "0.1.0",
-  "description": "power-string",
+  "description": "string utils",
   "keywords": ["string", "letter", "word", "chinese"],
   "main": "./lib/power-string.js",
   "repository": {
