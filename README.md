@@ -6,15 +6,15 @@
 [![node version][node-image]][node-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/power-string.svg?style=flat-square
+[npm-image]: https://img.shields.io/npm/v/power-string.svg
 [npm-url]: https://npmjs.org/package/power-string
-[travis-image]: https://img.shields.io/travis/xudafeng/power-string.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/xudafeng/power-string.svg
 [travis-url]: https://travis-ci.org/xudafeng/power-string
-[coveralls-image]: https://img.shields.io/coveralls/xudafeng/power-string.svg?style=flat-square
+[coveralls-image]: https://img.shields.io/coveralls/xudafeng/power-string.svg
 [coveralls-url]: https://coveralls.io/r/xudafeng/power-string?branch=master
-[node-image]: https://img.shields.io/badge/node.js-%3E=_8-green.svg?style=flat-square
+[node-image]: https://img.shields.io/badge/node.js-%3E=_8-green.svg
 [node-url]: http://nodejs.org/download/
-[download-image]: https://img.shields.io/npm/dm/power-string.svg?style=flat-square
+[download-image]: https://img.shields.io/npm/dm/power-string.svg
 [download-url]: https://npmjs.org/package/power-string
 
 > the missing utilities of String
@@ -57,4 +57,3 @@ This project follows the git-contributor [spec](https://github.com/xudafeng/git-
 ## License
 
 The MIT License (MIT)
-

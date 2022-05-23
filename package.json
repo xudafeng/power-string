@@ -13,7 +13,7 @@
   "devDependencies": {
     "eslint": "*",
     "eslint-plugin-mocha": "^4.11.0",
-    "git-contributor": "*",
+    "git-contributor": "1",
     "husky": "*",
     "mocha": "*",
     "nyc": "*"
