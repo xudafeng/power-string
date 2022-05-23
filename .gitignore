@@ -2,3 +2,4 @@ node_modules
 coverage
 *.sw*
 *.un~
+package-lock.json

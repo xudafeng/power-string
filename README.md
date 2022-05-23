@@ -1,15 +1,15 @@
 # power-string
 
 [![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
+[![build status][ci-image]][ci-url]
 [![Test coverage][coveralls-image]][coveralls-url]
 [![node version][node-image]][node-url]
 [![npm download][download-image]][download-url]
 
 [npm-image]: https://img.shields.io/npm/v/power-string.svg
 [npm-url]: https://npmjs.org/package/power-string
-[travis-image]: https://img.shields.io/travis/xudafeng/power-string.svg
-[travis-url]: https://travis-ci.org/xudafeng/power-string
+[ci-image]: https://github.com/xudafeng/power-string/actions/workflows/ci.yml/badge.svg
+[ci-url]: https://github.com/xudafeng/power-string/actions/workflows/ci.yml
 [coveralls-image]: https://img.shields.io/coveralls/xudafeng/power-string.svg
 [coveralls-url]: https://coveralls.io/r/xudafeng/power-string?branch=master
 [node-image]: https://img.shields.io/badge/node.js-%3E=_8-green.svg
